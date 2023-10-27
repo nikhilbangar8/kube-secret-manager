@@ -1,2 +1,4 @@
 # avoid local secret files into the git repository
 
+secrets/**/*
+backup/**/*
